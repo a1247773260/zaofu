@@ -500,7 +500,34 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "fan",
+      "name": "导航www.饭太硬.com",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "汰",
+      "name": "汰",
+      "type": 3,
+      "api": "csp_Ada",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "csp_Anime1"
     }
-  ],
-  "spider": "./JAR/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"
+  ]
 }
