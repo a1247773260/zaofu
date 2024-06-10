@@ -500,16 +500,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "陆",
-      "name": "陆分",
-      "type": 3,
-      "api": "csp_Dhg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://v.ijujitv.cc/detail/57387.html"
     }
   ],
   "spider": "./JAR/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"
