@@ -518,16 +518,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "汰",
-      "name": "汰",
-      "type": 3,
-      "api": "csp_Ada",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "csp_Anime1"
     }
   ]
 }
