@@ -12,15 +12,27 @@
       "quickSearch": 1,
       "changeable": 1
     },
-  {
-      "key": "荐片纯净",
-      "name": "👍️荐片┃蓝光┃纯净",
-      "api": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/drpy2.min.js",
+
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6V",
       "type": 3,
+      "api": "csp_New6v",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/jp.js"
     },
     {
