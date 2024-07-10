@@ -15,13 +15,13 @@
   {
       "key": "荐片纯净",
       "name": "👍️荐片┃蓝光┃纯净",
-      "api": "./js/drpy2.min.js",
+      "api": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/drpy2.min.js",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "ext": "./js/jp.js"
+      "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/jp.js"
     },
     {
       "key": "贱贱",
