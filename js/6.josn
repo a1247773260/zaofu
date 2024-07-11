@@ -1,4 +1,4 @@
-{ "spider": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/blob/main/js/27.jar",
+{ "spider": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/main/js/27.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
 
@@ -17,7 +17,7 @@
       "key": "大米星球",
       "name": "大米星球",
       "type": 3,
-      "api": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/blob/main/js/27.jar",
+      "api": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/main/js/27.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -70,7 +70,7 @@
       "name": "🔨荐片",
       "type": 3,
       "api": "csp_JianPian",
-      "jar": "https://ghcy.eu.org/https://github.com/a1247773260/zaofu/blob/main/js/custom_spider.jar",
+      "jar": "https://ghcy.eu.org/https://github.com/a1247773260/zaofu/main/js/custom_spider.jar",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
