@@ -1,4 +1,4 @@
-{ "spider": "https://ghcy.eu.org/https://github.com/a1247773260/zaofu/blob/main/js/27.jar",
+{ "spider": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/blob/main/js/27.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
 
@@ -17,13 +17,54 @@
       "key": "大米星球",
       "name": "大米星球",
       "type": 3,
-      "api": "https://ghcy.eu.org/https://github.com/a1247773260/zaofu/blob/main/js/27.jar",
+      "api": "https://ghcy.eu.org/https://raw.github.com/a1247773260/zaofu/blob/main/js/27.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/ming.js"
     },
 
+  {
+      "key": "大米星球2",
+      "name": "大米星球2",
+      "type": 3,
+      "api": "./js/27.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/ming.js"
+    },
+
+
+   {
+      "key": "csp_dami_xing",
+      "name": "大米星球3",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/zaofu/main/js/ming.js"
+    },
+   {
+      "key": "大米星球4",
+      "name": "大米星球4",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/ming.js"
+    },
+  {
+      "key": "大米星球5",
+      "name": "大米星球5",
+      "type": 3,
+      "api": "./js/27.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/ming.js"
     {
       "key": "csp_JianPian",
       "name": "🔨荐片",
