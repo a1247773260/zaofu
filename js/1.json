@@ -147,13 +147,14 @@
       "changeable": 1
     },
     {
-      "key": "Ysj",
-      "name": "🎀异界┃动漫",
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
       "type": 3,
-      "api": "csp_Ysj",
+      "api": "csp_Djtt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+      
     },
     {
       "key": "Anime1",
