@@ -57,14 +57,7 @@
       "ext": "./js/ming.js"
     },
   {
-      "key": "大米星球5",
-      "name": "大米星球5",
-      "type": 3,
-      "api": "./js/27.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./js/ming.js"
+
     {
       "key": "csp_JianPian",
       "name": "🔨荐片",
@@ -270,7 +263,7 @@
       "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
-        "149.112.112.112"
+        "149.112.112.112" 
       ]
     }
   ],
