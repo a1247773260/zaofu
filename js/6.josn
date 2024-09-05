@@ -2,15 +2,16 @@
 
   "sites": [
 
-  {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
+   {
+      "key": "csp_xbpq",
+      "name": " 🐮偷摸┃看",
       "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
+      "api": "csp_XBPQ",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "https://ghcy.eu.org/https://raw.githubusercontent.com/a1247773260/-zyjk/main/xBPQ/%E5%A4%A9%E5%A4%A9%E7%BB%BC%E5%90%88.json"
     },
 
     {
