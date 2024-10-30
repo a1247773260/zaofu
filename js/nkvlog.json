@@ -31,7 +31,7 @@
     "播放列表":"<a&&</a>",
 
     
-    "分类url":"https://www.madou.io/index.php/vod/type/id/{cateId}/{catePg}/html",
+    "分类url":"https://www.madou.io/index.php/vod/type/id/{cateId}/{catePg}.html",
     
 
     "分类":"麻豆视频$1#91制片厂$2#综艺$3#动漫$4",
