@@ -1,9 +1,9 @@
 // 发布页: http://www.hscangku.com
-{
-
+{                 
+                              
 "站名":"仓库",
 "主页url":"https://hsck8.26img.com/",
-"分类url":"https://hsck8.26img.com/?search2=ndafeoafa&search=",
+"分类url":"https://hsck8.26img.com/?type={cateId}={catePg}",
 "分类":"国产视频$gc&p#国产AV$ycgc&p#有码中文$yz&p#无码中文$wz&p#日本有码$ry&p#无码中文$wz&p#动漫剧情$dm&p#欧美超清$om&p",
 "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
  
@@ -15,7 +15,7 @@
  
 "影片类型":"时间：&&<",
 
-"搜索url": "/vodsearch/{wd}----------{pg}---.html",
+"搜索url": "/?search2=ndafeoafa&search=/{wd}",
 "搜索模式":"1",
 "搜索数组":"stui-vodlist__box&&</li>",
 "搜索图片":"data-original=\"&&\"",
