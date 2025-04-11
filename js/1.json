@@ -1,10 +1,10 @@
 // 发布页: http://www.hscangku.com
-{                 
-                              
-"站名":"仓库",
-"主页url":"https://hsck8.26img.com",
-"分类url":"https://hsck8.26img.com/?type/{cateId}/{catePg}",
-"分类":"国产视频$gc&p#国产AV$ycgc&p#有码中文$yz&p#无码中文$wz&p#日本有码$ry&p#无码中文$wz&p#动漫剧情$dm&p#欧美超清$om&p",
+{
+
+"站名":"黄色仓库",
+"主页url":"http://hsck882.cc/",
+"分类url":"http://hsck882.cc/vodtype/{cateId}-{catePg}/.html",
+"分类":"日韩AV$8#国产系列$9#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
 "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
  
 "数组":"stui-vodlist__box&&</li>",
@@ -15,7 +15,7 @@
  
 "影片类型":"时间：&&<",
 
-"搜索url": "/?search2=ndafeoafa&search=/{wd}",
+"搜索url": "/vodsearch/-------------.html?wd=&submit=",                        
 "搜索模式":"1",
 "搜索数组":"stui-vodlist__box&&</li>",
 "搜索图片":"data-original=\"&&\"",
